@@ -68,6 +68,6 @@
 ### 📞 Контакты
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="20" height="20"/> [bulat_rimovich@mail.ru](mailto:bulat_rimovich@mail.ru)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="20" height="20"/> [@bulat_gbr](https://t.me/bulat_gbr)  
+[Telegram](https://t.me/bulat_gbr)  
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/headhunter.svg" width="20" height="20"/> [Резюме HH.ru]([https://hh.ru/resume/c35f97fdff0cd7ba6a0039ed1f623462723464](https://spb.hh.ru/resume/c35f97fdff0cd7ba6a0039ed1f623462723464))  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/> [Bulat-G](https://github.com/Bulat-G)
