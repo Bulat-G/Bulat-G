@@ -39,3 +39,22 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+**CMS:**
+![MODX](https://img.shields.io/badge/MODX-102C53?style=for-the-badge&logo=modx&logoColor=white)
+
+---
+
+### Проекты
+
+**[SkillSwap](https://github.com/Bulat-G/SkillSwap_36_1)**  
+React-приложение с использованием TypeScript и Redux Toolkit  
+• Архитектура приложения • Адаптивная верстка • Маршрутизация
+
+**[Название проекта 2]**  
+Веб-сайт с современной версткой  
+• БЭМ методология • Оптимизация производительности • Кроссбраузерность
+
+**[Учебные проекты]**  
+Проекты с Яндекс Практикум  
+• Full-stack приложения • Работа в команде • Code review
