@@ -75,5 +75,5 @@
 
 [![Email](https://img.shields.io/badge/Email-bulat_rimovich@mail.ru?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bulat_rimovich@mail.ru)  
 [![Telegram](https://img.shields.io/badge/Telegram-@bulat_gbr?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bulat_gbr)
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-резюме-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/c35f97fdff0cd7ba6a0039ed1f623462723464)  
+[![HeadHunter](https://img.shields.io/badge/hh.ru-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/c35f97fdff0cd7ba6a0039ed1f623462723464)  
 [![GitHub](https://img.shields.io/badge/GitHub-Bulat-G?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bulat-G)
