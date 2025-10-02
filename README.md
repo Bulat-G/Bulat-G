@@ -67,7 +67,8 @@
 
 ### 📞 Контакты
 
-[![Email](https://img.shields.io/badge/Email-bulat_rimovich@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bulat_rimovich@mail.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-@YourTelegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bulat_gbr)
-[![GitHub](https://img.shields.io/badge/GitHub-Bulat-G-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bulat-G)
+**📧 Email:** [bulat_rimovich@mail.ru](mailto:bulat_rimovich@mail.ru)  
+[![Telegram](https://img.shields.io/badge/Telegram-@YourTelegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bulat_gbr)  
+[![GitHub](https://img.shields.io/badge/GitHub-YourGitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bulat-G)  
+[![HH.ru](https://img.shields.io/badge/Резюме_HH.ru-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)]([https://hh.ru/resume/your-resume-id](https://spb.hh.ru/resume/c35f97fdff0cd7ba6a0039ed1f623462723464))  
 
