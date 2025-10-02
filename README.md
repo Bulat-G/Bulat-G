@@ -63,4 +63,11 @@
 Выпускной проект с Яндекс Практикум  
 • Работа в команде • Маршрутизация • Code review
 
+---
+
+### 📞 Контакты
+
+[![Email](https://img.shields.io/badge/Email-bulat_rimovich@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bulat_rimovich@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@YourTelegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bulat_gbr)
+[![GitHub](https://img.shields.io/badge/GitHub-Bulat-G-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bulat-G)
 
