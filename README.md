@@ -10,16 +10,6 @@
 
 ---
 
-### [Ваше Имя]  
-Frontend Developer
-
-[Местоположение]  
-[Ваш телефон]  
-[Ваш e-mail]  
-[Ссылка на GitHub]
-
----
-
 ### Технологии и инструменты
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
