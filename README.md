@@ -67,7 +67,10 @@
 
 ### 📞 Контакты
 
-[bulat_rimovich@mail.ru](mailto:bulat_rimovich@mail.ru)  
-[Telegram](https://t.me/bulat_gbr)  
-[(https://i.hh.ru/images/logos/openGraph/hh.ru.png?v=05022025) Резюме hh.ru](https://spb.hh.ru/resume/c35f97fdff0cd7ba6a0039ed1f623462723464)  
-[GitHub](https://github.com/Bulat-G)
+📧 [bulat_rimovich@mail.ru](mailto:bulat_rimovich@mail.ru)  
+📱 [Telegram](https://t.me/bulat_gbr)  
+📄 [Резюме hh.ru](https://spb.hh.ru/resume/c35f97fdff0cd7ba6a0039ed1f623462723464)  
+💻 [GitHub](https://github.com/Bulat-G)
+
+
+:javascript:
