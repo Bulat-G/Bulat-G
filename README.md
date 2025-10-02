@@ -40,21 +40,27 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-**CMS:**
+**CMS:**  
 ![MODX](https://img.shields.io/badge/MODX-102C53?style=for-the-badge&logo=modx&logoColor=white)
 
 ---
 
 ### Проекты
 
-**[SkillSwap](https://github.com/Bulat-G/SkillSwap_36_1)**  
-React-приложение с использованием TypeScript и Redux Toolkit  
-• Архитектура приложения • Адаптивная верстка • Маршрутизация
-
-**[Название проекта 2]**  
+**[Аренда апартаментов](https://isaakievskaya7.ru/)**  
 Веб-сайт с современной версткой  
-• БЭМ методология • Оптимизация производительности • Кроссбраузерность
+• БЭМ методология • Адаптивная верстка • Кроссбраузерность
 
-**[Учебные проекты]**  
-Проекты с Яндекс Практикум  
-• Full-stack приложения • Работа в команде • Code review
+**[Изготовление фундаментов](https://fundament-ph.ru/)**  
+Веб-сайт с обновленной версткой  
+• БЭМ методология • Адаптивная верстка • Кроссбраузерность
+
+**[Подъему и перенос домов](https://stroi-svai.ru/)**  
+Веб-сайт с современной версткой  
+• БЭМ методология • Адаптивная верстка • Работа с MODX
+
+**[SkillSwap](https://github.com/Bulat-G/SkillSwap_36_1)**  
+Выпускной проект с Яндекс Практикум 
+• Работа в команде • Маршрутизация • Code review
+
+
