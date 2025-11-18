@@ -56,7 +56,7 @@
 **Стилизация и верстка:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 ![CSS Flexbox](https://img.shields.io/badge/Flexbox-1572B6?logo=css3&logoColor=white)
 ![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?logo=css3&logoColor=white)
 
